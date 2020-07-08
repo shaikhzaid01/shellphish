@@ -13,6 +13,10 @@ $ bash shellphish.sh
 
 Now select your option then turn on hotspot and wait until ngrok generate link for you. I recommend you to use link shortner to send ngrok link.
 
+<h1>Video Tutorial:-</h1>
+
+<p1>Link:- https://youtu.be/fsF47WLr3zI </p1>
+
 <h2>Educational Purpose</h2>
 This tool and every information provided by us is only for educational purpose and use on own risk!
 
