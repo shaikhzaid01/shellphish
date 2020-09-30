@@ -2,7 +2,10 @@
 
 Shellphish provide you popular social media phishing pages(1o+ custome) directly send link and grab crdentials.
 
-<h2>Installation</h2>
+<h2>Installation</h2> 
+$ apt-get update 
+
+$ apt-get upgrade 
 
 $ git clone https://github.com/kinghacker0/shellphish
 
